@@ -3,6 +3,10 @@
 This repository contains the companion code for the [Firebase Local Emulator Suite codelab][codelab].
 For more information on the Firebase Emulator Suite check out the [learning pathway][pathway].
 
+## Demo Video
+
+[Watch the demo video](video.mp4)
+
 ## How to use this repository
 
 To begin, follow along with the [Local Development with the Firebase Emulator Suite Codelab][codelab]. 
